@@ -4,7 +4,7 @@ Aspiring Associate Data Analyst passionate about turning data into actionable in
 
 Skills
 - SQL
-- Excel
+- Google Sheet
 - Tableau
 - R Programming
 - Data Visualization
@@ -22,7 +22,7 @@ Projects
 (Projects will be added here)
 
 Tools
-Excel | SQL | Tableau | R | Power BI (Learning)
+Google Sheet | SQL | Tableau | R | Power BI (Learning)
 
 Contact
 LinkedIn: www.linkedin.com/in/j-sayson-961092353
