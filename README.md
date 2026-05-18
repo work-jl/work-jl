@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Juan Sayson 👋
 
-<!--
-**work-jl/work-jl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Associate Data Analyst passionate about turning data into actionable insights.
 
-Here are some ideas to get you started:
+Skills
+- SQL
+- Excel
+- Tableau
+- R Programming
+- Data Visualization
+- Data Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications
+- Google Data Analytics Professional Certificate
+
+Current Focus
+- Building Data Analytics Portfolio Projects
+- Learning Power BI
+- Improving SQL Skills
+
+Projects
+(Projects will be added here)
+
+Tools
+Excel | SQL | Tableau | R | Power BI (Learning)
+
+Contact
+LinkedIn: www.linkedin.com/in/j-sayson-961092353
+Email: work.jlsayson@gmail.com
